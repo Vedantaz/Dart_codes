@@ -15,6 +15,10 @@ class myClass {
   //   print("myClass is called"); // definition
   // }
 
+  myClass() {
+    print("Default constructor called");
+  } // default constructor
+
   void printName(String name) {
     // declaration
     print("$name is called"); // definition

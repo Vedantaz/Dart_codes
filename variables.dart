@@ -1,4 +1,4 @@
-import 'dart:io'; // for File , to get input of generate output.
+// for File , to get input of generate output.
 
 void main() {
   print("Welcome to Dart"); // or u can use too - - stdin();
